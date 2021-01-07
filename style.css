@@ -241,16 +241,16 @@ section:nth-child(2n + 1) {
 #timeline-divider {
     position: absolute;
     width: 0;
-    top: 10%;
+    top: 6%;
     left: 50%;
     border: 1px dashed #0096fa6b;
-    height: 66%;
+    height: 79%;
     color: #433E3F;
 }
 
 #timeline-divider .timeline-traveller {
     position: sticky;
-    top: 135px;
+    top: 130px;
     z-index: 2;
 }
 
